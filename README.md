@@ -1,0 +1,2 @@
+# dota-app
+local project
